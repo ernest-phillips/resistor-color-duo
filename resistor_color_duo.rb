@@ -22,4 +22,4 @@ To get started with TDD, see the `README.md` file in your
         end
     end
 
-    exercism submit resistor_color_duo.rb
+    
