@@ -14,7 +14,6 @@ To get started with TDD, see the `README.md` file in your
         def self.value(colors)
             a = colors[0]
             b = colors[1]
-            # puts a + ',' + b
             firstVal = RESISTOR_COLORS.index(a)
             secVal = RESISTOR_COLORS.index(b)
             
